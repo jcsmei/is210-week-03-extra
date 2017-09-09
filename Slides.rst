@@ -2,6 +2,8 @@
 IS 210 Assignment #03 Extra Credit
 ##################################
 
+import rst2s5.py
+
 .. header:: 
 The Witcher 3 on the PlayStation 4
 
