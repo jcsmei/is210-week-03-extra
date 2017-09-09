@@ -1,4 +1,4 @@
-.. image: https://github.com/jcsmei/is210-week-03-extra/blob/master/witcher3.gif
+.. image:: https://github.com/jcsmei/is210-week-03-extra/blob/master/witcher3.gif
 
 Use your sword skills to slay beasts of all kinds!
 
