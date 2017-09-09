@@ -10,6 +10,6 @@ The Witcher 3 on the PlayStation 4
 The Witcher 3: Wild Hunt is the third installment of the popular Witcher video game series. 
 They are based on the novels by author Andrzej Sapkowski.
 
-Next ->
+Next_ ->
 
-.. _Next: 
+.. _Next: https://github.com/jcsmei/is210-week-03-extra/blob/master/Slides02.rst
