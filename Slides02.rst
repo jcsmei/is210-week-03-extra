@@ -4,4 +4,4 @@ The land of the Witcher is full is amazing scenery.
 
 <- Previous_ Next_ ->
 
-.. _Previous:: Slides02.rst
+.. _Previous:: is210-week-03-extra/Slides01.rst
