@@ -1,6 +1,6 @@
 .. image:: https://github.com/jcsmei/is210-week-03-extra/blob/master/Witcher-3.gif
 
-Use magic to stop your enemeies!
+Use magic to stop your enemies!
 
 <- Previous_ Next_ ->
 
