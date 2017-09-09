@@ -1,6 +1,6 @@
 .. image:: https://raw.githubusercontent.com/jcsmei/is210-week-03-extra/master/Options2.jpg
 
-Use your cunning and inteelgence to pursuade your emenies.
+Use your cunning and intelligence to pursuade your emenies.
 
 <- Previous_ Next_ ->
 
