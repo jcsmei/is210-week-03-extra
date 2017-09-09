@@ -1,4 +1,4 @@
-.. image: https://raw.githubusercontent.com/jcsmei/is210-week-03-extra/master/end.jpg
+.. image:: https://raw.githubusercontent.com/jcsmei/is210-week-03-extra/master/end.jpg
 
 The Witcher 3 is avaialble for the PLayStation 4, XBox One, and PC.
 
