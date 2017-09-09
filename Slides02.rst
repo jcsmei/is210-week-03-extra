@@ -2,6 +2,6 @@
 
 The land of the Witcher is full is amazing scenery.
 
-<- Previous Next ->
+<- Previous_ Next_ ->
 
 .. _Previous:: Slides02.rst
