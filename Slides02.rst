@@ -4,4 +4,5 @@ The land of the Witcher is full is amazing scenery.
 
 <- Previous_ Next_ ->
 
-.. _Previous:: is210-week-03-extra/Slides01.rst
+.. _Previous: https://github.com/jcsmei/is210-week-03-extra/blob/master/Slides01.rst
+.. _Next: https://github.com/jcsmei/is210-week-03-extra/blob/master/Slides03.rst
